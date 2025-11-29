@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://razwanhossainifaz.github.io/professional-portfolio-02/](https://razwanhossainifaz.github.io/professional-portfolio-02/)
 
-- 📫 How to reach me **mrifaz369@gmail.com**
+- 📫 How to reach me **razwanhossainifaz98@gmail.com**
 
 - 📄 Know about my experiences [Click here to see my resume](https://drive.google.com/file/d/13bn-_N60gMo6hnqbTDULtJ2ZPOWZLGMD/view?usp=sharing)
 
