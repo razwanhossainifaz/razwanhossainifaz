@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Razwan Hossain</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-- 🔭 I’m currently **learning web development!**
+- 🔭 I’m currently **learning data analysis!**
 
-- 👯 I’m looking to collaborate on **any interesting project**
+- 👯 I’m looking to collaborate on **large level project**
 
 - 🤝 Continuously uograde myself with the requirement of **job**
 
