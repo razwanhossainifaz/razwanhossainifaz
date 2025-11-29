@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mrifaz369@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tTgnJOqapxgjETIjJMTAT3s0RixQS0tl/view](https://drive.google.com/file/d/1tTgnJOqapxgjETIjJMTAT3s0RixQS0tl/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tTgnJOqapxgjETIjJMTAT3s0RixQS0tl/view](https://drive.google.com/file/d/13bn-_N60gMo6hnqbTDULtJ2ZPOWZLGMD/view?usp=sharing)
 
 - ⚡ Fun fact **Being passionate about my work is like being in a relationship with a job that always leaves me breathless... and sometimes sleepless!**
 
