@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/2kRjsIw.png)](https://i.imgur.com/2kRjsIw.png)
+[![MasterHead](https://i.imgur.com/U8wYyVv.png)](https://i.imgur.com/U8wYyVv.png)
 <h1 align="center">Hi 👋, I'm Razwan Hossain</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
