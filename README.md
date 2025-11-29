@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **any interesting project**
 
-- 🤝 I’m looking for help with **job**
+- 🤝 Continuously uograde myself with the requirement of **job**
 
 - 👨‍💻 All of my projects are available at [https://razwanhossainifaz.github.io/professional-portfolio-02/](https://razwanhossainifaz.github.io/professional-portfolio-02/)
 
@@ -19,6 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/freelancerifaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="freelancerifaz" height="30" width="40" /></a>
+<a href="https://fb.com/freelancerifaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="freelancerifaz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
