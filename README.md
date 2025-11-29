@@ -1,6 +1,6 @@
 [![MasterHead](https://i.imgur.com/2kRjsIw.png)](https://i.imgur.com/2kRjsIw.png)
 <h1 align="center">Hi 👋, I'm Razwan Hossain</h1>
-<h3 align="center">A passionate frontend/React developer</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
 - 🔭 I’m currently **learning web development!**
 
